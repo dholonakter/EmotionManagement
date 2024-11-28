@@ -3,7 +3,8 @@
 The project involves developing an emotional awareness ritual to check your emotional states, such as happy, sad, angry, or neutral, at various times throughout the day. Each emotion is associated with a deeper conscious level. The goal is to create a habit of self-awareness by prompting users to log their emotions twice in the morning, afternoon, and evening.
 During moments of high emotional intensity, an AI chatbot will assist you by listening and helping to calm your emotions. It will not act as a personal counselor but will offer supportive interactions, such as emojis or characters that reflect your emotions and the situation you’ve shared. Over time, this practice encourages self-awareness, helping users identify triggers for their emotions.
 
-### The application is designed for daily use and is built using ASP.NET with Razor.
+## The application is initially used in C# and Typescript
+## The application is designed for daily use and is built using ASP.NET with Razor.
 
 ## Features:
 1. Emotion Logging: Users can type in the emotions they feel, along with the intensity level.
