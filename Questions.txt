@@ -1,0 +1,2 @@
+1. Do I need to add another class like person?
+2. Do I need to add interfaces?
