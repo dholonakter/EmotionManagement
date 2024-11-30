@@ -8,5 +8,6 @@ namespace EmotionApp.Enum
 {
 	public class EmotionIntensity
 	{
+
 	}
 }
