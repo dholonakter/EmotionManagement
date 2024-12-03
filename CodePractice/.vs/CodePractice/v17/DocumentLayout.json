@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBC3EFDB-A5C8-431A-8D34-8E0219CCFAFC}|CodePractice\\CodePractice.csproj|c:\\users\\dholo\\onedrive\\desktop\\emotionapp\\emotionmanagement\\codepractice\\codepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC3EFDB-A5C8-431A-8D34-8E0219CCFAFC}|CodePractice\\CodePractice.csproj|solutionrelative:codepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBC3EFDB-A5C8-431A-8D34-8E0219CCFAFC}|CodePractice\\CodePractice.csproj|c:\\users\\dholo\\onedrive\\desktop\\emotionapp\\emotionmanagement\\codepractice\\codepractice\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBC3EFDB-A5C8-431A-8D34-8E0219CCFAFC}|CodePractice\\CodePractice.csproj|solutionrelative:codepractice\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3EFDB-A5C8-431A-8D34-8E0219CCFAFC}|CodePractice\\CodePractice.csproj|c:\\users\\dholo\\onedrive\\desktop\\emotionapp\\emotionmanagement\\codepractice\\codepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC3EFDB-A5C8-431A-8D34-8E0219CCFAFC}|CodePractice\\CodePractice.csproj|solutionrelative:codepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Sum.cs",
               "DocumentMoniker": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\CodePractice\\Sum.cs",
               "RelativeDocumentMoniker": "CodePractice\\Sum.cs",
               "ToolTip": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\CodePractice\\Sum.cs",
               "RelativeToolTip": "CodePractice\\Sum.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAATAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T11:47:07.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\CodePractice\\Program.cs",
               "RelativeDocumentMoniker": "CodePractice\\Program.cs",
               "ToolTip": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\CodePractice\\Program.cs",
               "RelativeToolTip": "CodePractice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:57:33.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T09:57:33.036Z"
             }
           ]
         }
