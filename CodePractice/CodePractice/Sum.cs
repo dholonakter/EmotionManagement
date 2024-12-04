@@ -83,7 +83,7 @@ namespace CodePractice
 		{
 			if(h>=0 && h<=23 && m>=0 && m<=59 && s>=0 && s <= 59)
 			{
-				return (h * 3600000) + (m * 6000) + (s * 1000);
+				return (h * 3600000) + (m * 60000) + (s * 1000);
 
 			}
 			throw new ArgumentException("Invalid input for hours, minutes, or seconds.");
