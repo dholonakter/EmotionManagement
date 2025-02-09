@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "CodePractice\\Sum.cs",
               "ToolTip": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\CodePractice\\Sum.cs",
               "RelativeToolTip": "CodePractice\\Sum.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwEoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T11:47:07.669Z",
               "EditorCaption": ""
@@ -41,9 +45,10 @@
               "RelativeDocumentMoniker": "CodePractice\\Program.cs",
               "ToolTip": "C:\\Users\\dholo\\OneDrive\\Desktop\\EmotionApp\\EmotionManagement\\CodePractice\\CodePractice\\Program.cs",
               "RelativeToolTip": "CodePractice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:57:33.036Z"
+              "WhenOpened": "2024-11-28T09:57:33.036Z",
+              "EditorCaption": ""
             }
           ]
         }

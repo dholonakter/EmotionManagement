@@ -30,16 +30,16 @@ namespace CodePractice
 	{
 		static void Main(string[] args)
 		{
-			Ghost ghost = new Ghost();
-			Random rand = new Random();
-			Type type = typeof(Color);
-			Array values=type.GetEnumValues();
-			int colorIndex=rand.Next(values.Length);
-			ghost.GhostColor = (Color)values.GetValue(colorIndex);
-			Console.WriteLine($"The ghost's color is: {ghost.GhostColor}");
-            Console.WriteLine("please write down your input");
-            string name=Console.ReadLine();
-			Banjo.AreYouPlayingBanjo(name);
+			//Ghost ghost = new Ghost();
+			//Random rand = new Random();
+			//Type type = typeof(Color);
+			//Array values=type.GetEnumValues();
+			//int colorIndex=rand.Next(values.Length);
+			//ghost.GhostColor = (Color)values.GetValue(colorIndex);
+			//Console.WriteLine($"The ghost's color is: {ghost.GhostColor}");
+   //         Console.WriteLine("please write down your input");
+   //         string name=Console.ReadLine();
+			//Banjo.AreYouPlayingBanjo(name);
 			//Color Ghost
 
 

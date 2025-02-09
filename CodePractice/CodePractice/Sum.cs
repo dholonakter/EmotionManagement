@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Xml.Linq;
 using System.Drawing;
+using System.Runtime.CompilerServices;
+using System.ComponentModel;
+using System.Runtime.Intrinsics.X86;
 
 namespace CodePractice
 {
@@ -89,6 +92,56 @@ namespace CodePractice
 			throw new ArgumentException("Invalid input for hours, minutes, or seconds.");
 
 		}
+	}
+
+	/// <summary>
+	/// Is the string uppercase?
+	/// Task
+	/// Create a method to see whether the string is ALL CAPS.In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
+	/// </summary>
+	public static class StribgExtensions
+	{
+		public static bool IsUpperCase(this string text)
+		{
+			foreach (char c in text) 
+			{
+				if (char.IsLower(c)) { return false; }
+			}
+			return true;
+		}
+		
+	}
+	public class FakeBinClass
+	{
+		public static string FakeBin(string x) 
+		{
+			//suppose x=45678;
+			if (x != null)
+			{
+				foreach(char c in x)
+				{
+					if (c > '5')
+					{
+						x.Replace('c', '0');
+
+					}
+
+					if (c < '5')
+					{
+						x.Replace(c, '1');
+
+					}
+
+				}
+				//x = x.Replace("5", "0").Replace("6", "1");
+
+				//x.Replace('6', '1');
+				//return x;
+			}
+			return null;
+
+		}
+
 	}
 
 }
